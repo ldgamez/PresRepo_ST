@@ -8,7 +8,7 @@
 #define OUT_OF_RANGE 2
 #define WINNER 3
 #define EXIT 666
-#define E
+#define NEWLINE 1
 
 char player[] = { 'O', 'X' };
 char grid[3][3][2];
