@@ -8,11 +8,7 @@
 #define OUT_OF_RANGE 2
 #define WINNER 3
 #define EXIT 666
-<<<<<<< HEAD
 
-=======
-#define CONFLICTCAUSE 1
->>>>>>> SubDev
 
 
 char player[] = { 'O', 'X' };
