@@ -8,7 +8,7 @@
 #define OUT_OF_RANGE 2
 #define WINNER 3
 #define EXIT 666
-#define NEWLINE 5
+#define CONFLICTCAUSE 1
 
 
 char player[] = { 'O', 'X' };
