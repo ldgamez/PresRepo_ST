@@ -7,7 +7,7 @@
 #define MOVE_MADE 1
 #define OUT_OF_RANGE 2
 #define WINNER 3
-#define EXIT 666
+#define EXIT 66666
 
 
 
