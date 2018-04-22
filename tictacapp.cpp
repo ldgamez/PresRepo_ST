@@ -7,10 +7,7 @@
 #define MOVE_MADE 1
 #define OUT_OF_RANGE 2
 #define WINNER 3
-<<<<<<< HEAD
-#define EXIT 6666
-=======
-#define EXIT 66666
+#define EXIT 666
 >>>>>>> Sub-Subdev
 
 
