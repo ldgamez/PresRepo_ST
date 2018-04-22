@@ -8,7 +8,7 @@
 #define OUT_OF_RANGE 2
 #define WINNER 3
 #define EXIT 6666
->>>>>>> Sub-Subdev
+
 
 
 
